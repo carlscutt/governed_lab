@@ -186,4 +186,16 @@ License
 
 Private project. Enterprise governance research and portfolio use.
 
+#
+Logging into the dashboard.
+
+Run the governed_lab_dashboard.exe
+
+or
+
+run Python dashboard.py 
+
+user:admin
+pass: changeme
+
 .
